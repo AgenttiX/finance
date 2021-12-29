@@ -19,6 +19,8 @@
 
 ## Games
 - [Final Fantasy XIV](https://eu.finalfantasyxiv.com/lodestone/special/friend_recruit/)
+- [Humble Bundle](https://www.humblebundle.com/subscription?refc=4FAaaW)
+- [Humble Store](https://www.humblebundle.com/subscription/activate-discount?gamekey=qMT7pX6wfUDnmXSz)
 
 ## Misc
 - [Fabulous](https://thefab.page.link/8q4Mz)
