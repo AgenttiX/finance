@@ -24,5 +24,6 @@
 
 ## Misc
 - [Fabulous](https://thefab.page.link/8q4Mz)
+- [Forest](https://www.forestapp.cc/): ZPRA2CSG
 - [Honeygain](https://r.honeygain.me/AGENTF9CF9)
 - [ParkMan](https://parkman.page.link/1yfo)
