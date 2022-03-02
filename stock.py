@@ -157,7 +157,7 @@ def main():
     timer.start(60*1000)
 
     win.show()
-    app.exec_()
+    app.exec()
 
 
 main()
