@@ -12,6 +12,7 @@
 - [Foodora](https://www.foodora.fi/referral?code=e46303c8edb9ea0bbbe33fc0352d5357&geid=PO_FI)
 - [Jimmy Joy](http://i.refs.cc/mZiZe8Jy?smile_ref=eyJzbWlsZV9zb3VyY2UiOiJzbWlsZV91aSIsInNtaWxlX21lZGl1bSI6IiIsInNtaWxlX2NhbXBhaWduIjoicmVmZXJyYWxfcHJvZ3JhbSIsInNtaWxlX2N1c3RvbWVyX2lkIjoxNTIyNTM2NzJ9)
 - [Mana](https://refrr.app/dfS5pWSQ1n/54353)
+- [ResQ](https://www.resq-club.com/): SPB-990
 - [Wolt](https://wolt.com/en/me/redeem-code): M6F5PBG
 
 ## Stores
